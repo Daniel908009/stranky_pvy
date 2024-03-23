@@ -1,0 +1,22 @@
+a{
+    text-decoration: underline;
+}
+body{
+    width: 70%;
+    margin: auto auto;
+}
+table{
+border: 2px solid black;
+    width: 100%;
+}
+th, td{
+    border: 2px solid black;
+}
+em{
+    background-color: yellow;
+    font-style: normal;
+}
+img{
+    width: 200px;
+    
+}
